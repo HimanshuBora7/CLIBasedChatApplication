@@ -26,9 +26,3 @@ socket-chat/
 │  ├── client.c
 
 ```
-
-### One-one-comms
-
-```
-![Architecture](./image.png)
-```
